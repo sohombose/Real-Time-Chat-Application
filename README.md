@@ -53,3 +53,9 @@ The scalable architecture of the project also makes it a solid foundation for in
 # Conclusion
 
 Developing this real-time chat application helped me strengthen my understanding of real-time systems, full-stack development, and socket communication. It provided valuable insight into how modern web apps are structured and how they manage real-time data flow between users. This project not only enhanced my technical skill set but also provided me with a tangible application that could be scaled and extended into a full-fledged product.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/bfd3a23b-955a-4c2a-a5e6-ad0ada3966a9)
+
+![Image](https://github.com/user-attachments/assets/f44ac8b4-5430-4e88-8a73-6f78a0c8930d)
